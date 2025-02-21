@@ -33,10 +33,15 @@ Autenticação e Segurança: Alternativas ao JWT + OAuth2
 
 saude-mosaico/
 ├── backend/        # API Node.js com Nest.js
+
 ├── frontend/       # Aplicativo React Native
+
 ├── database/       # Scripts para configuração do banco de dados
+
 ├── docs/           # Documentação do projeto
+
 ├── docker-compose.yml
+
 └── README.md       # Arquivo principal do projeto ✅
 
 2️⃣ Pré-requisitos
